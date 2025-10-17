@@ -3,6 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   output: 'export',
+  basePath: '/hausofcharm',
   images: {
     unoptimized: true,
   },
